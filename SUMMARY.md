@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Javascript Problems](README.md)
+* [Introduction](README.md)
 
 ## Problems
 

@@ -2,7 +2,7 @@
 description: This book is  about Javascript all Simple and Medium Problems
 ---
 
-# Javascript Problems
+# Introduction
 
 ![](.gitbook/assets/jsp.png)
 
