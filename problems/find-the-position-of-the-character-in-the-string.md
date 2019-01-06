@@ -1,11 +1,6 @@
-# Find the position of the character  in the string
-
-### Find the position of \(n\) character in  a string
-
-#### Solution:
+# Find the position of \(n\) character in  a string
 
 ```text
-// Find the position of a character
 let character = 'abcdefghijklmnopqrstuvwxyz';
 let findPos = character.indexOf("n");
 console.log(findPos);

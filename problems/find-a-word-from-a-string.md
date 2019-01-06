@@ -1,7 +1,5 @@
 # Find a word from a string
 
-#### Solution:
-
 ```text
 //Problem: You have to find SCHOOL from this string
 
