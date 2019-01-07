@@ -11,4 +11,5 @@
 * [Remove whitespace from a string](problems/remove-whitespace-from-a-string.md)
 * [Extracting String Characters](problems/extracting-string-characters.md)
 * [Converting a String to an Array](problems/converting-a-string-to-an-array.md)
+* [Extract one or multiple word from a String](problems/extract-one-or-multiple-word-from-a-string.md)
 
